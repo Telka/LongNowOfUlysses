@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project will document, describe, narrate, and disseminate the methods, theories and practices
+This project will document, describe, and disseminate the methods, theories and practices
 of Engl507's contributions to The Long Now of *Ulysses*. Its purpose is to record the
 methodological and theoretical (modelling, versioning, visualization, and curation)
 frameworks informing the exhibit. Further, it will provide an instructional framework to
@@ -14,7 +14,8 @@ published online through the [UVic Maker Lab](http://www.jenterysayers.com/) and
 The document itself will be structured by the sections of the exhibit featured in the
 Maltwood Gallery and online. It's authorship will ultimately be collective inasmuch as the 
 log entries published in the GitHub repository will provide the source material for each 
-section. These entries will be revised with interoperability, and pedagogical applications in mind.
+section. These entries will be revised with praxis, interoperability, and pedagogical 
+applications in mind.
 
 ## List of Materials
 
@@ -25,7 +26,7 @@ of Cultural Heritage
 Materials](http://www.nyu.edu/its/pubs/pdfs/NINCH_Guide_to_Good_Practice.pdf) will serve
 as a reference point or a model for this paper.
 
-## Reasonable Scope
+##Reasonable Scope
 
 This project will be ready for (online) publication and dissemination by April 16, 2013.
 It will include documentation added to the GitHub repository up until April
